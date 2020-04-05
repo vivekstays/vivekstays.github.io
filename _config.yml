@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "Vivek S"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a Optical network Engineer with interests in ML"
+  avatar           : "/images/biopic.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am an Optical Network Engineer with interests in ML"
   location         : "Sydney"
   email            :
   links:
