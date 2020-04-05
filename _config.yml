@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" #"default", "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vivek S and Suriyanarayanan Venkatesan"
+title                    : "Vivek S"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Vivek S and Suriyanarayanan"
+name                     : "Vivek S"
 description              : "Blog for learning ML using with easy and interesting examples."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -93,15 +93,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Vivek S Suriyanarayanan V"
+  name             : "Vivek S"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am a Optical network Engineer with interests in ML"
   location         : "Sydney"
   email            :
   links:
-    - label: "Email"
+    - label: "Gmail"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:vivek233@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -114,10 +114,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/vivekstays"
-      url: "https://github.com/vivekstays"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/vivek23/"
 
 
 # Site Footer
